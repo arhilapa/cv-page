@@ -1,0 +1,32 @@
+header {
+	background: #545454;
+	text-align: center;
+	
+}
+
+header img {
+	position: relative;
+		bottom: -120px;
+	}
+
+.round {
+	border-radius: 100px;
+		object-fit: cover
+		
+}
+
+h1 {
+	text-align: center;
+	margin-top: 150px;
+	font-family: 'Montserrat', sans-serif;
+	letter-spacing: 6px;
+	font-weight: 1;
+}
+
+.center {
+	text-align: center;
+	font-weight: 1;
+	color: rgba(0, 0, 0, 0.5)
+}
+
+
